@@ -1,0 +1,32 @@
+{
+  "name": "FixtureFlux",
+  "version": "0.0.1",
+  "description": "Example app using PouchDB, Flux & React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colinf/FixtureFlux.git"
+  },
+  "keywords": [
+    "flux",
+    "reactjs",
+    "celtic",
+    "fixtures",
+    "pouchdb",
+    "couchdb"
+  ],
+  "author": "Colin Fallon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinf/FixtureFlux/issues"
+  },
+  "homepage": "https://github.com/colinf/FixtureFlux",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "pouchdb": "^3.4.0",
+    "react": "^0.13.1"
+  }
+}
